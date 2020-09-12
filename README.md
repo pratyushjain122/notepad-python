@@ -19,7 +19,7 @@
 #### ~ After running the program a simple GUI window pops out.
 
 <p align="center">
-<img src="https://github.com/pratyushjain122/notepad-python/blob/master/Extra/Main.png" alt="main page" width=50px >
+<img src="https://github.com/pratyushjain122/notepad-python/blob/master/Extra/Main.png" alt="main page" width=400px >
 </p>
 
 #### ~ You can write anything like any normal notepad here.
