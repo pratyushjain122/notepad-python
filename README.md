@@ -27,11 +27,24 @@
 &nbsp;
 ### ~ This is the File Menu 👇
 <br>
-<p>
 <img src="https://github.com/pratyushjain122/notepad-python/blob/master/Extra/File%20Menu.png" alt="File Menu">
-</p>
 
-#### ~ From this window you can create a 'New' file, 'Open' an existing file or 'Save' the current file.
-#### ~ You can also Exit the current window.
+#### ~ From this window you can create a 'New' file, 'Open' an existing file or 'Save' the current file. You can also Exit the current window.
+<hr>
 
+&nbsp;
 
+### ~ This is the Edit Menu 👇
+<br>
+<img src="https://github.com/pratyushjain122/notepad-python/blob/master/Extra/Edit%20Menu.png" alt="Edit Menu">
+
+#### ~ From this window you can create a 'Cut' , 'Copy' or 'Paste' the content from or into the current file.
+
+&nbsp;
+
+## Contributors👨‍💻
+
+<ul>
+<li><a href="https://github.com/pratyushjain122">Pratyush Jain</a></li>
+<li><a href="https://github.com/mansharamani-rahul">Rahul Mansharamani</a></li>
+</ul>
