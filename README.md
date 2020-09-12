@@ -26,6 +26,12 @@
 
 &nbsp;
 ### ~ This is the File Menu 👇
-<p align="center">
+<br>
+<p>
 <img src="https://github.com/pratyushjain122/notepad-python/blob/master/Extra/File%20Menu.png" alt="File Menu">
 </p>
+
+#### ~ From this window you can create a 'New' file, 'Open' an existing file or 'Save' the current file.
+#### ~ You can also Exit the current window.
+
+
