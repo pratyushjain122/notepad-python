@@ -19,7 +19,7 @@
 #### ~ After running the program a simple GUI window pops out.
 
 <p align="center">
-<img src="https://github.com/pratyushjain122/notepad-python/blob/master/Extra/Main.png" alt="main page">
+<img src="https://github.com/pratyushjain122/notepad-python/blob/master/Extra/Main.png" alt="main page" width=50px >
 </p>
 
 #### ~ You can write anything like any normal notepad here.
@@ -27,5 +27,5 @@
 &nbsp;
 #### ~ This is the File Menu 👇
 <p align="center">
-<img src="" alt="File Menu">
+<img src="https://github.com/pratyushjain122/notepad-python/blob/master/Extra/File%20Menu.png" alt="File Menu">
 </p>
