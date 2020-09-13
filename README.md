@@ -38,7 +38,7 @@
 <br>
 <img src="https://github.com/pratyushjain122/notepad-python/blob/master/Extra/Edit%20Menu.png" alt="Edit Menu">
 
-#### ~ From this window you can create a 'Cut' , 'Copy' or 'Paste' the content from or into the current file.
+#### ~ From this window you can 'Cut' , 'Copy' or 'Paste' the content from or into the current file.
 
 &nbsp;
 
