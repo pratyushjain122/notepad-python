@@ -29,7 +29,7 @@
 <br>
 <img src="https://github.com/pratyushjain122/notepad-python/blob/master/Extra/File%20Menu.png" alt="File Menu">
 
-#### ~ From this window you can create a 'New' file, 'Open' an existing file or 'Save' the current file. You can also Exit the current window.
+#### ~ In this window you can create a 'New' file, 'Open' an existing file or 'Save' the current file. You can also Exit the current window.
 <hr>
 
 &nbsp;
